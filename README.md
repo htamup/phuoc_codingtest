@@ -1,2 +1,6 @@
 # phuoc_codingtest
-Using npm http-server to run the site at root directory
+Using http-server to test the app:
+1. Install http-server via npm:
+npm install http-server -g
+2. Run the following command at root directory to test the app on browser:
+http-server -o
